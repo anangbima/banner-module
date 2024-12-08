@@ -1,0 +1,16 @@
+{
+  "name": "razen/banner",
+  "version": "1.0.0",
+  "description": "Module Banner",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Razen\\Banner\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {
+    "laravel/framework": "^11.0"
+  }
+}
